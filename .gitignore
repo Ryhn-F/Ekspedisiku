@@ -54,3 +54,5 @@ yarn-error.log
 /.vscode
 /.zed
 >>>>>>> 0f80aab (First Commit)
+
+.vercel
